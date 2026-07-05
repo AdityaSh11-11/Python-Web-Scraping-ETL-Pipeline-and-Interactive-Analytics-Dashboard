@@ -1,4 +1,4 @@
-# Smart Web Scraper Dashboard
+# Web Data Extraction and Analytics Dashboard
 
 An end-to-end **Python Web Scraping Dashboard** built with **Streamlit**, **BeautifulSoup**, **SQLite** and **Plotly**. This application allows users to scrape website data, store it in a database, visualize the results, search and filter records and export the data in multiple formats.
 
