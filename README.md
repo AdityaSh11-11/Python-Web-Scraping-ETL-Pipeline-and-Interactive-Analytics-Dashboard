@@ -212,7 +212,7 @@ git push origin feature-name
 ---
 
 
-## 👨‍💻 Author
+## Author
 
 **Aditya Sharma**
 
